@@ -23,13 +23,12 @@ This will output:
 
 ### Example
 
->>> dec2geez(1234)
-'፲፪፻፴፬'
->>> dec2geez(500)
-'፶፻'
->>> dec2geez(10000)
-'፼'
-
+`>>> dec2geez(1234)`
+`'፲፪፻፴፬'`
+`>>> dec2geez(500)`
+`'፶፻'`
+`>>> dec2geez(10000)`
+`'፼'`
 
 ### Notes
 
