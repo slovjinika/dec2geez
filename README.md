@@ -17,7 +17,6 @@ This will output:
 ### Features
 
 - Converts decimal numbers to Geez numerals.
-- Supports numbers up to 100,000.
 - Handles numbers with tens, hundreds, and thousands.
 - Provides clear error messages for invalid input.
 
